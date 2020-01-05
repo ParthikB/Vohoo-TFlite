@@ -1,1 +1,3 @@
-# vohooo_TFlite
+# Vohoo-tfLite
+
+Just practicing Tensorflow Lite!
